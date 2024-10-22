@@ -35,7 +35,11 @@
     "vector": "cpp",
     "generator": "cpp",
     "text_encoding": "cpp",
-    "random": "cpp"
+    "random": "cpp",
+    "limits": "cpp",
+    "iosfwd": "cpp",
+    "*.tcc": "cpp",
+    "algorithm": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled"
 }
